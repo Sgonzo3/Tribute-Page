@@ -1,0 +1,71 @@
+body {
+  background-color: rgba(32, 34, 36, 0.8);
+}
+
+.content {
+  text-alignment: center;
+  margin: 4em;
+  padding: 8em;
+  color: rgb(51, 51, 51);
+  background-color: rgb(245, 245, 245);
+  border-radius: 0.5em;
+}
+
+#title {
+  text-align: center;
+  font-size: 63px;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+}
+
+.figure1 {
+
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.figure1-caption {
+  text-align: center;
+}
+
+.time-line {
+
+}
+
+.time-line > h3 {
+  text-align: center;
+}
+
+.quote {
+
+}
+
+.quotation {
+
+}
+
+.citation {
+  text-align: left;
+}
+
+.closing {
+  text-align: center;
+}
+
+.link {
+
+}
+
+footer {
+  text-align: center;
+}
